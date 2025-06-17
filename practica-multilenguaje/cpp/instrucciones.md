@@ -18,5 +18,7 @@ Verifica si una cadena es palindromo, ignorando mayusculas y espacios.
 ## Compilacion y ejecucion
 
 1. Compilar:
-```bash
+bash
 g++ palindromo.cpp -o palindromo
+2. Ejecucion
+ ./palindromo.exe
